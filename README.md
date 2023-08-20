@@ -1,6 +1,6 @@
 # Hyprland configuration
 
-1. Add `rpd` layout inside this path: `.config/xkb/symbols`
+1. Add `rpd` layout inside the path `.config/xkb/symbols`
 2. Add `rpd` to hyprland config:
 ```bash
 input {
@@ -8,6 +8,8 @@ input {
     ...
 }
 ```
+
+To change the layout use `hyprctl keyword input:kb_layout rpd`
 
 ## Preview
 Base layer:
