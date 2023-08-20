@@ -1,6 +1,6 @@
-xkb_symbols "dvorak-intl" {
+xkb_symbols "real-prog-dvorak" {
 
- name[Group1]= "Real Programmer Dvorak";
+ name[Group1]= "Real Programmers Dvorak";
  include "us(basic)"
 
  key <TLDE> { [ dollar, asciitilde, dollar, asciitilde ] };
